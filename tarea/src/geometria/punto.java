@@ -39,6 +39,13 @@ public class punto {
        this.x+=x;
        this.y+=y;
    }
-    
+   
+   
+   
+   
+   
+   
+   
+   
 
 }
